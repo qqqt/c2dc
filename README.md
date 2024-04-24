@@ -10,14 +10,14 @@ Command and control made in python with discord api.
 
 # Commands
 
-    "help - Help command",
-    "cd - Change directory",
-    "ls - List directory",
-    "upload <link> - Upload file",
-    "cmd - Execute cmd.exe command",
-    "shell - Execute powershell.exe command",
-    "exit - Exit the session",
-    "screenshot - Take a screenshot",
-    "persist <name> - Persistence Backdoor",
-    "getNC - Download Netcat",
-    "useNC <ip> <port> - Use Netcat"
+    help - Help command
+    cd - Change directory
+    ls - List directory
+    upload <link> - Upload file
+    cmd - Execute cmd.exe command
+    shell - Execute powershell.exe command
+    exit - Exit the session
+    screenshot - Take a screenshot
+    persist <name> - Create a registry key to Run the file.exe
+    getNC - Download Netcat
+    useNC <ip> <port> - Use Netcat
