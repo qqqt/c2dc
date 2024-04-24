@@ -1,4 +1,4 @@
-# c2dc
+## Command and Control - Discord
 Command and control made in python with discord api.
 
 ## Compile
@@ -9,7 +9,7 @@ Command and control made in python with discord api.
 > Trying to figure out how to avoid AV detection
 
 
-# Commands
+## Commands
 
     help - Help command
     cd - Change directory
@@ -29,4 +29,16 @@ Command and control made in python with discord api.
 - Execute the code in python or compile the code to .exe in the target machine
   
 - Get This in your server:
+
 ![image](https://github.com/qqqt/c2dc/assets/162643613/0a615931-8a63-495b-9e38-0ba40ec3ff27)
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
