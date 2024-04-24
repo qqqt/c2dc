@@ -4,7 +4,7 @@
 Command and control made in python with discord api.
 
 ## Compile
-> python -m nuitka --mingw64 .\main.py --standalone --onefile --windows-disable-console - - enable-static
+> python -m nuitka --mingw64 .\main.py --standalone --onefile --windows-disable-console
 - Antivirus and browser will detect it as virus.
 
 ## Obfuscate 
