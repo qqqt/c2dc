@@ -8,6 +8,7 @@ Command and control made in python with discord api.
 ## Obfuscate 
 > Trying to figure out how to avoid AV detection
 
+
 # Commands
 
     help - Help command
@@ -21,3 +22,9 @@ Command and control made in python with discord api.
     persist <name> - Create a registry key to Run the file.exe
     getNC - Download Netcat
     useNC <ip> <port> - Use Netcat
+
+## Usage
+> Change Variable DISCORD_TOKEN and guild_id to your own
+> Execute the code in python or compile the code to .exe in the target machine
+- Get This:
+![image](https://github.com/qqqt/c2dc/assets/162643613/0a615931-8a63-495b-9e38-0ba40ec3ff27)
