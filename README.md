@@ -1,7 +1,6 @@
-![template](https://github.com/qqqt/c2dc/assets/162643613/be207704-484e-4707-9144-52a680289e5b)
-
-
 ## Command and Control - Discord
+
+![template](https://github.com/qqqt/c2dc/assets/162643613/be207704-484e-4707-9144-52a680289e5b)
 Command and control made in python with discord api.
 
 ## Compile
